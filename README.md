@@ -4,7 +4,7 @@ A text based game using non-deterministic finite state machine without outputs. 
 Game Title: Evil Robots Are Outside
 
 Description:
-Evil robots are outside your home rampaging the entire city! Being a hero, your job is to go outside to search and destroy robots as soon as possible. Be careful, however, as the terryfying robots are capable of shooting deadly laser beams that will vaporize any human being within seconds. You must successfully hide from their laser beams, or you will die.
+Evil robots are outside your home rampaging the entire city! Being a hero, your job is to go outside to search and destroy robots as soon as possible. Be careful, however, as the terryfying robots are capable of shooting deadly laser beams that will vaporize any human being within seconds. You must successfully hide from their laser beams, or you will die!
 
 
 Picture of NDFA
